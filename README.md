@@ -6,7 +6,7 @@ Make folders and upload files.
 
 ## Tech Stack
 
-Create React App, React, React Router Dom, React-Bootstrap, Firebase
+Create React App, React Router Dom, React-Bootstrap, Firebase
   
 ## Deployment
 
